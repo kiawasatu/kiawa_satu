@@ -12,6 +12,11 @@ export const metadata: Metadata = {
   title: "Desa Kiawa Satu",
   description:
     "Website Resmi Desa Kiawa Satu - Sumber informasi terbaru tentang pemerintahan di Desa Kiawa Satu",
+  icons: {
+    icon: '/images/minahasa.jpg',
+    shortcut: '/images/minahasa.jpg',
+    apple: '/images/minahasa.jpg',
+  },
 };
 
 export default function RootLayout({
