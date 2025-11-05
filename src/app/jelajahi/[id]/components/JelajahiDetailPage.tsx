@@ -295,6 +295,45 @@ const ProfilContent = () => {
                <span className="w-2 h-2 bg-red-600 rounded-full"></span>
                <span>Keripik</span>
              </div>
+                <div className="flex items-center gap-2 text-gray-700">
+               <span className="w-2 h-2 bg-red-600 rounded-full"></span>
+               <span>Kue Inbekuk</span>
+             </div>
+                <div className="flex items-center gap-2 text-gray-700">
+               <span className="w-2 h-2 bg-red-600 rounded-full"></span>
+               <span>Balapis</span>
+             </div>
+                <div className="flex items-center gap-2 text-gray-700">
+               <span className="w-2 h-2 bg-red-600 rounded-full"></span>
+               <span>Kue Telinga Gajah</span>
+             </div>
+                <div className="flex items-center gap-2 text-gray-700">
+               <span className="w-2 h-2 bg-red-600 rounded-full"></span>
+               <span>Balapis Pisang</span>
+             </div>
+                <div className="flex items-center gap-2 text-gray-700">
+               <span className="w-2 h-2 bg-red-600 rounded-full"></span>
+               <span>Lalampa</span>
+             </div>
+                <div className="flex items-center gap-2 text-gray-700">
+               <span className="w-2 h-2 bg-red-600 rounded-full"></span>
+               <span>Kuekuk</span>
+             </div>
+                <div className="flex items-center gap-2 text-gray-700">
+               <span className="w-2 h-2 bg-red-600 rounded-full"></span>
+               <span>Panada</span>
+             </div>
+                <div className="flex items-center gap-2 text-gray-700">
+               <span className="w-2 h-2 bg-red-600 rounded-full"></span>
+               <span>Biapong Goreng</span>
+             </div>
+                <div className="flex items-center gap-2 text-gray-700">
+               <span className="w-2 h-2 bg-red-600 rounded-full"></span>
+               <span>Midal</span>
+             </div>   <div className="flex items-center gap-2 text-gray-700">
+               <span className="w-2 h-2 bg-red-600 rounded-full"></span>
+               <span>Bermacam Ikan & Sayur Masak</span>
+             </div>
            </div>
          </div>
         </div>
