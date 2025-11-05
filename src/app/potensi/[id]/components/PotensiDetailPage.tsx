@@ -90,6 +90,7 @@ const POTENSI_DATA = {
     title: "Usaha Swasta Rumahan",
     images: [
       "/images/potensidesa/kacangshanghai.jpg",
+      "/images/potensidesa/kacangshanghai2.jpg",
       "/images/potensidesa/kuetelur.jpg",
       "/images/potensidesa/keripik.jpg",
     ],
@@ -100,29 +101,59 @@ const POTENSI_DATA = {
           "Produksi kacang shanghai menjadi salah satu usaha rumahan yang berkembang pesat di Desa Kiawa Satu. Menggunakan resep tradisional yang telah diwariskan turun-temurun, kacang shanghai yang dihasilkan memiliki rasa gurih dan renyah yang khas. Produk ini dikemas dengan higienis dan dipasarkan ke toko-toko lokal serta dijual online.",
       },
       {
-        title: "Proses Produksi Kacang Shanghai",
-        description:
-          "Proses pembuatan kacang shanghai dilakukan dengan standar kebersihan tinggi. Bahan baku kacang tanah pilihan dicuci bersih, kemudian digoreng dengan minyak berkualitas dan dibumbui dengan racikan khusus. Setiap batch produksi dikontrol kualitasnya untuk memastikan konsistensi rasa dan kerenyahan.",
-      },
-      {
-        title: "Kue Telur Tradisional",
+        title: "Kue Telur",
         description:
           "Kue telur adalah camilan tradisional yang sangat populer di kalangan masyarakat. Dibuat dari telur segar, tepung terigu, dan gula dengan komposisi pas, kue telur yang dihasilkan memiliki tekstur lembut dan aroma harum. Produk ini sering menjadi oleh-oleh khas dari Desa Kiawa Satu.",
       },
       {
-        title: "Inovasi Rasa Kue Telur",
+        title: "Kue Inbeikuk",
         description:
-          "Para pengusaha kue telur terus berinovasi dengan menghadirkan varian rasa baru seperti pandan, cokelat, dan keju. Kemasan yang menarik dan modern membuat produk ini semakin diminati pasar muda. Kue telur dari desa ini telah menembus pasar kota besar dengan respons positif dari konsumen.",
+          "Kue inbeikuk merupakan kue tradisional khas yang memiliki cita rasa unik dan diwariskan secara turun-temurun. Dibuat dengan bahan-bahan pilihan dan resep autentik, kue ini menjadi salah satu produk unggulan usaha rumahan yang mempertahankan kearifan lokal sambil terus berinovasi dalam penyajian dan pengemasan.",
       },
       {
-        title: "Kripik Aneka Rasa",
+        title: "Balapis",
         description:
-          "Usaha pembuatan kripik berkembang dengan menawarkan berbagai varian seperti kripik singkong, pisang, dan ubi. Menggunakan bahan baku lokal yang segar dan berkualitas, kripik yang dihasilkan memiliki cita rasa autentik. Proses penggorengan dengan teknologi vacuum frying menghasilkan kripik yang lebih sehat dan renyah.",
+          "Balapis adalah kue lapis tradisional yang dibuat dengan teknik khusus berlapis-lapis hingga menghasilkan tekstur yang lembut dan kenyal. Kue ini memiliki berbagai varian rasa dan warna yang menarik. Proses pembuatan yang teliti menghasilkan balapis berkualitas tinggi yang diminati sebagai sajian istimewa.",
       },
       {
-        title: "Pemasaran dan Distribusi",
+        title: "Kue Telinga Gajah",
         description:
-          "Para pelaku usaha rumahan telah memanfaatkan teknologi digital untuk memasarkan produk mereka. Melalui media sosial dan platform e-commerce, jangkauan pasar semakin luas hingga ke luar daerah. Kualitas produk yang konsisten dan pelayanan yang baik membuat pelanggan terus loyal dan merekomendasikan produk kepada orang lain.",
+          "Kue telinga gajah terkenal dengan bentuknya yang unik dan rasa yang renyah. Dibuat dari adonan tepung yang digoreng dengan teknik khusus, menghasilkan tekstur berlapis yang gurih dan manis. Kue ini menjadi favorit banyak orang sebagai camilan atau oleh-oleh.",
+      },
+      {
+        title: "Balapis Pisang",
+        description:
+          "Balapis pisang menggabungkan kelezatan kue lapis dengan aroma dan rasa pisang yang khas. Menggunakan pisang lokal berkualitas tinggi, produk ini menawarkan perpaduan sempurna antara tekstur lembut kue lapis dengan kelezatan buah pisang. Sangat populer sebagai kue untuk acara-acara khusus.",
+      },
+      {
+        title: "Lalampa",
+        description:
+          "Lalampa adalah makanan tradisional khas yang terbuat dari bahan-bahan alami dan dimasak dengan cara tradisional. Memiliki cita rasa yang khas dan nilai gizi tinggi, lalampa menjadi salah satu kuliner yang terus dilestarikan dan dikembangkan oleh para pengusaha rumahan di desa.",
+      },
+      {
+        title: "Kuekuk",
+        description:
+          "Kuekuk merupakan kue tradisional dengan karakteristik unik yang membedakannya dari kue lainnya. Dibuat dengan resep turun-temurun dan bahan-bahan berkualitas, kuekuk menjadi salah satu produk kuliner yang mencerminkan kekayaan budaya kuliner lokal dan terus diminati hingga saat ini.",
+      },
+      {
+        title: "Panada",
+        description:
+          "Panada adalah makanan khas berupa roti goreng berisi yang sangat populer. Dengan isian yang beragam seperti ikan cakalang atau daging, panada memiliki rasa gurih dan tekstur yang renyah di luar namun lembut di dalam. Produk ini menjadi favorit untuk sarapan atau camilan kapan saja.",
+      },
+      {
+        title: "Biapong Goreng",
+        description:
+          "Biapong goreng adalah camilan tradisional yang memiliki cita rasa unik dan tekstur yang khas. Dibuat dengan teknik penggorengan khusus dan bumbu rempah pilihan, biapong goreng menghasilkan makanan yang gurih dan renyah. Produk ini sangat diminati sebagai camilan atau lauk pendamping.",
+      },
+      {
+        title: "Midal",
+        description:
+          "Midal merupakan kuliner tradisional dengan bahan dasar dan proses pembuatan yang khas. Memiliki nilai budaya yang tinggi, midal terus diproduksi oleh pengusaha rumahan dengan tetap mempertahankan resep asli namun dengan standar kebersihan dan kemasan modern untuk memperluas jangkauan pasar.",
+      },
+      {
+        title: "Bermacam Ikan Masak",
+        description:
+          "Usaha pengolahan ikan masak menawarkan berbagai variasi olahan ikan dengan bumbu dan teknik masak tradisional. Dari ikan rica-rica, ikan bumbu kuning, hingga ikan woku, setiap hidangan dibuat dengan ikan segar dan rempah-rempah pilihan. Produk ini dikemas higienis dan tahan lama, cocok sebagai lauk praktis atau oleh-oleh khas.",
       },
     ],
   },
@@ -276,7 +307,7 @@ export default function PotensiDetailPage() {
           {/* Sections */}
           <div className="space-y-10">
             {potensi.sections.map((section, index) => {
-              const letterMap = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J"]
+              const letterMap = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L"]
               return (
                 <div
                   key={index}
