@@ -211,7 +211,7 @@ export default function PotensiDetailPage() {
                     src={image}
                     alt={`${potensi.title} ${index + 1}`}
                     fill
-                    className="object-cover"
+                    className="object-contain"
                     priority={index === 0}
                   />
                   <div className="absolute inset-0 bg-linear-to-t from-black/60 via-black/20 to-transparent" />
