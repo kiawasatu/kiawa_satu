@@ -93,6 +93,11 @@ const POTENSI_DATA = {
       "/images/potensidesa/kacangshanghai2.jpg",
       "/images/potensidesa/kuetelur.jpg",
       "/images/potensidesa/keripik.jpg",
+      "/images/potensidesa/rujak.jpg",
+      "/images/potensidesa/ayam_kuning.jpg",
+      "/images/potensidesa/ikangoreng.jpg",
+      "/images/potensidesa/cakalangfufu.jpg",
+      "/images/potensidesa/bihun.jpg",
     ],
     sections: [
       {
