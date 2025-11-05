@@ -98,6 +98,8 @@ const POTENSI_DATA = {
       "/images/potensidesa/ikangoreng.jpg",
       "/images/potensidesa/cakalangfufu.jpg",
       "/images/potensidesa/bihun.jpg",
+      "/images/potensidesa/salad.jpg",
+      "/images/potensidesa/donut.jpg",
     ],
     sections: [
       {
