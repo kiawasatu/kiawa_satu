@@ -20,13 +20,13 @@ export default function KontakKami() {
         <div className="bg-linear-to-br from-red-50 to-white border-2 border-red-100 rounded-lg p-8 text-center hover:border-red-300 hover:shadow-lg transition-all">
           <Phone className="w-16 h-16 text-red-600 mx-auto mb-4" />
           <h3 className="font-bold text-lg text-red-600 mb-3">Telepon</h3>
-          <p className="text-gray-600 leading-relaxed">(0431) 123-4567</p>
+          <p className="text-gray-600 leading-relaxed">-</p>
         </div>
 
         <div className="bg-linear-to-br from-red-50 to-white border-2 border-red-100 rounded-lg p-8 text-center hover:border-red-300 hover:shadow-lg transition-all">
           <Mail className="w-16 h-16 text-red-600 mx-auto mb-4" />
           <h3 className="font-bold text-lg text-red-600 mb-3">Email</h3>
-          <p className="text-gray-600 leading-relaxed">info@desakiawasatu.id</p>
+          <p className="text-gray-600 leading-relaxed">-</p>
         </div>
       </div>
     </section>
