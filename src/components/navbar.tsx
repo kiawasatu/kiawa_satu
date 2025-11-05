@@ -89,7 +89,7 @@ export default function NavbarWithAuth() {
     )
   }
 
-return (
+  return (
     <nav className="bg-white shadow-md sticky top-0 z-50">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         {/* Logo */}
@@ -102,6 +102,14 @@ return (
           </div>
         </button>
 
+        {/* Hamburger Button - Mobile Only */}
+        <button
+          onClick={() => setIsOpen(!isOpen)}
+          className="md:hidden p-2 text-gray-700 hover:text-red-600 transition"
+          aria-label="Toggle menu"
+        >
+          {isOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
+        </button>
 
         {/* Desktop Menu */}
         <ul className="hidden md:flex gap-8 items-center">
