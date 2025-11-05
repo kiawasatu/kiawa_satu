@@ -101,6 +101,8 @@ const POTENSI_DATA = {
       "/images/potensidesa/salad.jpg",
       "/images/potensidesa/donut.jpg",
       "/images/potensidesa/kue.jpg",
+      "/images/potensidesa/kangkung.jpg",
+      "/images/potensidesa/ikanbakar.jpg",
     ],
     sections: [
       {
