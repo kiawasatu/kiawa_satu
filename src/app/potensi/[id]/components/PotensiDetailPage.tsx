@@ -148,12 +148,12 @@ const POTENSI_DATA = {
       {
         title: "Midal",
         description:
-          "Midal merupakan kuliner tradisional dengan bahan dasar dan proses pembuatan yang khas. Memiliki nilai budaya yang tinggi, midal terus diproduksi oleh pengusaha rumahan dengan tetap mempertahankan resep asli namun dengan standar kebersihan dan kemasan modern untuk memperluas jangkauan pasar.",
+          "Midal merupakan kuliner tradisional dengan bahan dasar dan proses pembuatan yang khas. Memiliki nilai budaya yang tinggi, midal terus diproduksi oleh pengusaha rumahan dengan tetap mempertahankan resep asli namun dengan standar kebersihan.",
       },
       {
         title: "Bermacam Ikan Masak",
         description:
-          "Usaha pengolahan ikan masak menawarkan berbagai variasi olahan ikan dengan bumbu dan teknik masak tradisional. Dari ikan rica-rica, ikan bumbu kuning, hingga ikan woku, setiap hidangan dibuat dengan ikan segar dan rempah-rempah pilihan. Produk ini dikemas higienis dan tahan lama, cocok sebagai lauk praktis atau oleh-oleh khas.",
+          "Usaha pengolahan ikan masak menawarkan berbagai variasi olahan ikan dengan bumbu dan teknik masak tradisional. Dari ikan rica-rica, ikan bumbu kuning, hingga ikan woku, setiap hidangan dibuat dengan ikan segar dan rempah-rempah pilihan.",
       },
     ],
   },
