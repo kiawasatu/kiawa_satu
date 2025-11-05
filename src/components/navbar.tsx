@@ -78,26 +78,30 @@ export default function NavbarWithAuth() {
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
           <div className="flex items-center gap-3">
             <Image src="/images/minahasa.jpg" alt="Logo Minahasa" width={50} height={50} className="object-contain" />
-            <span className="font-bold text-lg text-gray-800">Desa Kiawa Satu</span>
+            <div className="flex flex-col items-start">
+              <span className="font-bold text-lg text-gray-800">Desa Kiawa Satu</span>
+              <span className="text-xs text-gray-600">Kabupaten Minahasa</span>
+              <span className="text-xs text-gray-600">Kecamatan Kawangkoan Utara</span>
+            </div>
           </div>
         </div>
       </nav>
     )
   }
 
-  return (
+return (
     <nav className="bg-white shadow-md sticky top-0 z-50">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         {/* Logo */}
         <button onClick={() => router.push("/")} className="flex items-center gap-3 cursor-pointer hover:opacity-80 transition">
           <Image src="/images/minahasa.jpg" alt="Logo Minahasa" width={50} height={50} className="object-contain" />
-          <span className="font-bold text-lg text-gray-800">Desa Kiawa Satu</span>
+          <div className="flex flex-col items-start">
+            <span className="font-bold text-lg text-gray-800">Desa Kiawa Satu</span>
+            <span className="text-xs text-gray-600">Kabupaten Minahasa</span>
+            <span className="text-xs text-gray-600">Kecamatan Kawangkoan Utara</span>
+          </div>
         </button>
 
-        {/* Hamburger Button - Mobile */}
-        <button onClick={() => setIsOpen(!isOpen)} className="md:hidden text-gray-700 hover:text-red-600 transition">
-          {isOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
-        </button>
 
         {/* Desktop Menu */}
         <ul className="hidden md:flex gap-8 items-center">
